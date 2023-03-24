@@ -24,3 +24,8 @@ _Malheureusement le petit cafard était trop faible pour porter les casseroles a
 Mais malhureusement un cafard n'est jamais très bon en cuisine.
 Tout ce qu'il essaie d'entreprendre tourne au fiasco.
 Réussir _Top chef_ à l'air d'être un rêve intouchable.
+
+
+La semaine après sa candidature, **Hector** reçoit un appel pour participer à la sélection.
+Il y participe et sort du lot grâce à son niveau exceptionnel.
+Le mercredi d'après, il reçoit un appel pour lui annoncer qu'il est sélectionner pour participer à la prochaine saison de _Top Chef_.
