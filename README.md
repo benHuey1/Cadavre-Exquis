@@ -7,6 +7,9 @@ C'est l'histoire d'un cafard nommé **Hector** qui rêve de devenir boulanger.
 il décide de s'entrainer en suivant des livres de recette.
 Après son apprentissage il postule à _Top chef_ pour faire ses preuves.
 
+
+
+
 _Malheureusement le petit cafard était trop faible pour porter les casseroles alors_ 
 > original me diriez vous mais pas tres malin
 **ducoup le petit coquin se retrouva seul sans amis**
@@ -16,3 +19,8 @@ _Malheureusement le petit cafard était trop faible pour porter les casseroles a
 
 
 
+
+
+Mais malhureusement un cafard n'est jamais très bon en cuisine.
+Tout ce qu'il essaie d'entreprendre tourne au fiasco.
+Réussir _Top chef_ à l'air d'être un rêve intouchable.
